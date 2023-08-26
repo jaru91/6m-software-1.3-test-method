@@ -6,7 +6,7 @@
 - A: Requirement
 - B: Coding
 - C: Testing
-- D: None of the above
+- D: None of the above <-- ans
 ---
 
 ### Q2: What test deals with isolation testing of the smallest piece of logic?
